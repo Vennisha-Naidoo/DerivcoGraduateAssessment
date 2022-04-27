@@ -1,0 +1,14 @@
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.exe
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.deps.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.runtimeconfig.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.runtimeconfig.dev.json
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.dll
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\bin\Debug\netcoreapp3.1\CSVFileInput.pdb
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.csproj.AssemblyReference.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.AssemblyInfoInputs.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.AssemblyInfo.cs
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.csproj.CoreCompileInputs.cache
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.dll
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.pdb
+C:\Users\venni\Dropbox\My PC (LAPTOP-DTS9DJKS)\Desktop\Derivco\GraduateAssessmentCSVFileInput\CSVFileInput\CSVFileInput\obj\Debug\netcoreapp3.1\CSVFileInput.genruntimeconfig.cache

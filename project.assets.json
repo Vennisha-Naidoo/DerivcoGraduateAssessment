@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessment\\GraduateAssessment\\GraduateAssessment.csproj",
-      "projectName": "GraduateAssessment",
-      "projectPath": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessment\\GraduateAssessment\\GraduateAssessment.csproj",
+      "projectUniqueName": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessmentCSVFileInput\\CSVFileInput\\CSVFileInput\\CSVFileInput.csproj",
+      "projectName": "CSVFileInput",
+      "projectPath": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessmentCSVFileInput\\CSVFileInput\\CSVFileInput\\CSVFileInput.csproj",
       "packagesPath": "C:\\Users\\venni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessment\\GraduateAssessment\\obj\\",
+      "outputPath": "C:\\Users\\venni\\Dropbox\\My PC (LAPTOP-DTS9DJKS)\\Desktop\\Derivco\\GraduateAssessmentCSVFileInput\\CSVFileInput\\CSVFileInput\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
